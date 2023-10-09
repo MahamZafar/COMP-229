@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Week1\\modules",
+    "\\Week2\\connect-module",
+    "\\Week3",
+    "\\Week3\\ejs_html_response",
+    "\\Week3\\ejs_html_response\\app",
+    "\\Week3\\ejs_html_response\\app\\controllers",
+    "\\Week3\\ejs_html_response\\app\\routes",
+    "\\Week3\\ejs_html_response\\config\\environment"
   ],
-  "SelectedNode": "\\New",
+  "SelectedNode": "\\Week3\\ejs_html_response\\app\\routes\\about-server-routes.js",
   "PreviewInSolutionExplorer": false
 }
